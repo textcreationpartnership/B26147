@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commune Concil' tent' in Camera Guildhall, London, die Veneris vicesimo quinto die Octobr, anno Domini, 1695 ... an Act of Common Council for Lighting the Streets, Lanes, Courts, Alleys and Publick Passages of the City of London and Liberties Thereof.</title>
+            <title>Act of Common Council for Lighting the Streets, Lanes, Courts, Alleys, and Publick Passages of the City of London and Liberties Thereof</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26147</idno><idno type="EEBO-CITATION">16146273</idno>
+  <idno type="VID">206221</idno>
+  <idno type="EEBO-PROQUEST">2240850434</idno>
+  
+            <idno type="STC">Wing L2861H</idno>
+            <idno type="OCLC">16146273</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26147)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206221)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1596:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commune Concil' tent' in Camera Guildhall, London, die Veneris vicesimo quinto die Octobr, anno Domini, 1695 ... an Act of Common Council for Lighting the Streets, Lanes, Courts, Alleys and Publick Passages of the City of London and Liberties Thereof.</title>
+                  <title>Act of Common Council for Lighting the Streets, Lanes, Courts, Alleys, and Publick Passages of the City of London and Liberties Thereof</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Raycroft ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Street lighting --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:206221:1"/>
+            <head>
+               <hi>Lane</hi> Mayor. <figure>
+                  <figDesc>arms of London</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Commune Concil'</hi> tent' in <hi>Camera Guihald'</hi> Civitat' LONDON', <date>Die <hi>Veneris</hi> Vicesimo quinto Die <hi>Octobr',</hi> Anno Domini <hi>1695,</hi> Annoque Regni Domini <hi>WILLIELMI</hi> Tertii, Regis <hi>Angl', &amp;c.</hi> Septimo;</date> Coram <hi>Thoma Lane</hi> Mil', <hi>Majore</hi> dictae Civit', <hi>Thoma Stampe</hi> Mil', Aldermann'; <hi>Salathiel' Lovell</hi> Mil', Servien' ad Legem ac Recordator' dictae Civit', <hi>Richardo Levitt</hi> Mil', <hi>Willielmo Hedges</hi> Mil', ac <hi>Thoma Smart</hi> Armig', Aldermann'; Necnon major' parte Communiar' dictae Civitat' in eodem <hi>Communi Concil'</hi> tunc &amp; ibidem Assemblat'.</dateline>
+            </opener>
+            <head>An ACT of Common Council of Lighting the Streets, Lanes, Courts, Alleys, and Publick Passages of the CITY of LONDON and Liberties thereof.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS in and by one Act of Parliament, made at <hi>Westminster</hi> in the <hi>5th</hi> and <hi>6th</hi> Years of the Reign of Our Sovereign Lord and Lady, King <hi>WILLIAM</hi> the Third, and of the late Queen <hi>MARY;</hi> Entituled, <hi>An Act for Relief of the Orphans and other Creditors of the City of <hi>London;</hi>
+               </hi> amongst other things it is Enacted, That the Lord Mayor and Comminalty, and Citizens of <hi>London,</hi> should (on or before the <hi>24th</hi> Day of <hi>June 1694,</hi>) Demise or Grant to Sir <hi>Charles Hara</hi> Kt. <hi>John Stanyon</hi> Esq; <hi>Phillip Neve</hi> Esq; and <hi>John Lilly</hi> Gent. and all other the Persons concerned and interested in the <hi>Glass-Lights,</hi> commonly call'd or known by the Name of <hi>CONVEX-LIGHTS,</hi> a Lease or License for the sole use of the <hi>Publick Lights</hi> to be used in all Publick places within the said City, and the Liberties thereof, for the Term of Twenty one years, to be computed from the said <hi>24th</hi> day of <hi>June 1694,</hi> Reserving the yearly Rent of <hi>600 l.</hi> in such manner, and by and under such other Articles, Covenants and Agreements for payment of the said Rent, or making void the said Lease in default thereof, or otherwise, as by and between the said Mayor, and Comminalty and Citizens, and the said Persons above-mentioned, than were or should be agreed on for that purpose, by certain Articles made or to be made in that behalf, as by the said Act may appear. Since the making of which Act, and in pursuance thereof, It is Agreed, That one or more Act or Acts of <hi>Common Council</hi> of this City shall be Made and Ordained, obliging the Inhabitants of this City and Liberties thereof, Paying for and towards the Relief of the Poor, all Governors, Churchwardens, and Masters of Hospitals, Churches, Schools and other Publick Buildings, Fronting the Streets or publick Lanes and Passages respectively, either to Agree with the Proprietors of the said <hi>LIGHTS,</hi> to Light the <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon reasonable Terms, or else to Light the same themselves, forthe Necessary and Common Good and Safety of the said City and the Inhabitants thereof.</p>
+            <pb facs="tcp:206221:2"/>
+            <p>Be it therefore Enacted and Established by the said <hi>Mayor, Aldermen,</hi> and <hi>Commons</hi> in <hi>Common Council</hi> Assembled, and by the Authority of the same, That every Housholder within the said City of <hi>London</hi> or Liberties thereof, who doth or shall pay to the Poor, and whose House or Gate-way doth or shall adjoyn to or be next the Common-Street, Lanes, Thorough-fares and Passages there, (and no others) shall from henceforth until <hi>Lady-Day</hi> next, and afterwards from <hi>Michaelmass</hi> unto <hi>Lady-Day</hi> yearly, every Dark-Night, set or hang out <hi>Candles</hi> with Cotton-wick lighted in convenient <hi>Lanthorns</hi> on the Outside of his or her House or Gate-way next the said Streets, Lanes, Thorough-fares and publick Passages, to Enlighten the same, for securing the Houses against <hi>Robbers</hi> and <hi>Thieves,</hi> for the Pre<g ref="char:EOLhyphen"/>vention of <hi>Murder,</hi> and the Conveniency of <hi>Passengers;</hi> and shall continue the same Burning from Six of the Clock at Night until Eleven of the Clock of the same Night, upon pain to forfeit to the said <hi>Mayor,</hi> and <hi>Comminalty</hi> and <hi>Citizens,</hi> the Sum of <hi>One shilling</hi> for every such Default, to be paid after Proofs thereof made (within <hi>Six Days</hi>) before the <hi>Lord Mayor</hi> of the said City of <hi>London</hi> for the Time being, upon the Oath of one or more credible Witness or Witnesses, and to be Levied and Recovered as is hereafter mentioned and exprest.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That all and every the respective the Churchwarden and Churchwardens of Parish Churches, Masters or Governors of Halls, Schools, and other publick Building whatsoever fronting or adjoyning to any of the said Streets, Lanes, Thorough-fares and Passages of the said City and Liberties thereof, shall in like manner for like purposes respectively, hang out Candles with Cotton-wick in convenient Lanthorns on the Outside of all Churches, Halls, Schools, and other publick Buildings respectively, next to the Street, Lanes, Thorough-fares and Passages (every Dark-Night) from <hi>Michaelmass</hi> to <hi>Lady-Day</hi> yearly, as the said <hi>Aldermen,</hi> his <hi>Deputy</hi> or <hi>Common Council-men</hi> of each respective Ward, or the major part of them, Assembled upon due Notice for that purpose, shall direct and appoint from time to time; which said <hi>Candles</hi> shall be Lighted, and shall be continued Burning from Six of the Clock at Night until Eleven of the Clock of the same Night, upon pain to Forfeit upon every default the Sum of <hi>One shilling</hi> to the use aforesaid, to be Recovered in manner as is herein after mentioned and exprest.</p>
+            <p>Provided nevertheless, That no person or persons shall forfeit or lose any of the Sums before-mentioned for his, her or their Neglect or Default, as aforesaid, who shall make and continue any Agreement with the Proprietors of the said <hi>Lamp-Lights,</hi> for the Lighting of the said Streets in their behalves.</p>
+            <p>And be it further Enacted and Ordained by the Authority aforesaid, That all the Penalties and Forfeitures, by virtue hereof incurred or to be incurred, shall and may be Recovered by Distress of the Offender's Goods, by Warrant under the Hand and Seal of the <hi>LORD MAYOR</hi> for the Time being.</p>
+            <p>And in regard there are several <hi>Courts</hi> and <hi>Alleys</hi> within this City and Liberties thereof, many the Inhabitants of which, tho' Rated and do pay to the <hi>Poor,</hi> yet are not able to bear any greater Charge or Burthen; Be it further Enacted and Ordained by the Authority aforesaid, That the manner of Lighting such Courts and Alleys shall be directed and appointed by the <hi>Aldermen, Deputies</hi> and <hi>Common Council-men</hi> of the several Wards in which the said Courts and Alleys are, or the major part of them that shall Appear, being all duly Summoned. And the said <hi>Aldermen, Deputies</hi> and <hi>Common Council-men,</hi> or the major part of them, as aforesaid, are hereby Authorized, to Appoint such a Number of <hi>Lights</hi> to be hung out in the said places, by such of the Inhabitants as are most Able in their Turns, as they shall adjudge necessary for Lighting the same, and in default thereof to incur the Penalties aforesaid; Vnless the Inhabitants or any of them shall think fit to Agree with the said Proprietors of the said <hi>Lamp-Light,</hi> in their steads.</p>
+            <p>And be it further Enacted and Ordained by the <hi>Lord Mayor, Aldermen</hi> and <hi>Commons</hi> in <hi>Common Council</hi> Assembled, and by the Authority thereof, That all and every Act and Acts of <hi>Common Council</hi> heretofore made, touching or concerning the <hi>Lighting</hi> of Streets, Lanes, Passages, Thorough-fares and publick Passages of this City of <hi>London</hi> and the Liberties thereof, and every Clause and Article therein shall be and are hereby Repealed, Annulled and made Void.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by SAMUEL ROYCROFT, Printer to the Honourable City of <hi>LONDON,</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
